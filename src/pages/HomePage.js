@@ -89,7 +89,7 @@ export default class HomePage extends Component {
 
   handleLoginClicked = () => {
     const requestUrl = "https://access.line.me/oauth2/v2.1/authorize";
-    const channelId = "1560224466";
+    const channelId = "1560603147";
     const redirectUri = "https://nogerm.github.io/prettyamen";
     const state = "access";
     const nonce = "54321";
